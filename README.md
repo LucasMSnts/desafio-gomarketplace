@@ -1,6 +1,15 @@
 # GoMarketplace
 Desafio 08 GoStack: Fundamentos do React Native
 
+## Tecnologias 👨‍💻
+
+- [React Native](https://reactnative.dev/)  
+  - [Axios](https://github.com/axios/axios)
+  - [Async Storage](https://github.com/react-native-community/async-storage)
+  - [React Navigation](https://reactnavigation.org/)
+  - [JSON Server](https://dev.to/mariorodeghiero/json-server-with-reactjs-3chd)
+
+---
 
 ## Iniciar projeto ▶️
 
